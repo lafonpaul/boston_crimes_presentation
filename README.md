@@ -39,6 +39,5 @@ The following recommendations are made based on the results of this project:
 
 
 
-Thank you for your time.
 
 
